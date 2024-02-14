@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1,NPO 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/npo.1.nl.m3u8#checkedby:alliptvlinks.com
+http://supersonictv.live:8080/880771/489382/84452#checkedby:alliptvlinks.com
 #EXTINF:-1,NPO 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/npo.2.nl.m3u8#checkedby:alliptvlinks.com
+http://supersonictv.live:8080/880771/489382/84451#checkedby:alliptvlinks.com
 #EXTINF:-1,NPO 3
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/npo.3.nl.m3u8#checkedby:alliptvlinks.com
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/204409#checkedby:alliptvlinks.com
 #EXTINF:-1,RTL 4
-http://supersonictv.live:8080/880771/489382/84440#checkedby:alliptvlinks.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.4.nl.m3u8#checkedby:alliptvlinks.com
 #EXTINF:-1,RTL 5
-http://supersonictv.live:8080/880771/489382/84439#checkedby:alliptvlinks.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.5.nl.m3u8#checkedby:alliptvlinks.com
 #EXTINF:-1,SBS 6
-http://supersonictv.live:8080/880771/489382/84430#checkedby:alliptvlinks.com
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73711#checkedby:alliptvlinks.com
 #EXTINF:-1,RTL 7
-http://supersonictv.live:8080/880771/489382/84438#checkedby:alliptvlinks.com
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73703#checkedby:alliptvlinks.com
 #EXTINF:-1,RTL 8
-http://supersonictv.live:8080/880771/489382/84437#checkedby:alliptvlinks.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.8.nl.m3u8#checkedby:alliptvlinks.com
 #EXTINF:-1,SBS 9
 http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311164#checkedby:alliptvlinks.com
 #EXTINF:-1,Net 5
@@ -24,7 +24,7 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/62955.ts#checkedby:alliptvlink
 #EXTINF:-1,RTL Crime
 http://supersonictv.live:8080/880771/489382/84436#checkedby:alliptvlinks.com
 #EXTINF:-1,Nickelodeon
-http://supersonictv.live:8080/880771/489382/84453#checkedby:alliptvlinks.com
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/73690#checkedby:alliptvlinks.com
 #EXTINF:-1,Nick Toons
 http://supersonictv.live:8080/880771/489382/84454#checkedby:alliptvlinks.com
 #EXTINF:-1,Cartoon Network
