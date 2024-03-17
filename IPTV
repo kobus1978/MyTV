@@ -6,33 +6,31 @@ http://78.130.250.2:7023/play/a00y/index.m3u8
 #EXTINF:-1,NPO 3
 http://78.130.250.2:7023/play/a01k/index.m3u8
 #EXTINF:-1,RTL 4
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73701#checkedby:alliptvlinks.com
+http://78.130.250.2:7023/play/a012/index.m3u8
 #EXTINF:-1,RTL 5
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73702#checkedby:alliptvlinks.com
+http://78.130.250.2:7023/play/a013/index.m3u8
 #EXTINF:-1,SBS 6
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73711#checkedby:alliptvlinks.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/111034.ts
 #EXTINF:-1,RTL 7
 http://78.130.250.2:7023/play/a014/index.m3u8
 #EXTINF:-1,RTL 8
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73704#checkedby:alliptvlinks.com
+http://78.130.250.2:7023/play/a01m/index.m3u8
 #EXTINF:-1,SBS 9
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/854#checkedby:alliptvlinks.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62937.ts
 #EXTINF:-1,Net 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73685#checkedby:alliptvlinks.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62938.ts
 #EXTINF:-1,VERONICA/DISNEY XD
-http://78.130.250.2:7023/play/a01j/index.m3u8#checkedby:alliptvlinks.com
+http://78.130.250.2:7023/play/a01j/index.m3u8
 #EXTINF:-1,RTL Crime
-http://goldiptvofficiel.tv:25461/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36930#checkedby:alliptvlinks.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62949.ts
 #EXTINF:-1,Nickelodeon
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/73690#checkedby:alliptvlinks.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/62957.ts
 #EXTINF:-1,Nick Toons
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73689#checkedby:alliptvlinks.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/62959.ts
 #EXTINF:-1,Cartoon Network
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73655#checkedby:alliptvlinks.com
-#EXTINF:-1,Cartoonito
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300444#checkedby:alliptvlinks.com
+http://localiptv.site:85/JocoLucicNew/JosoLskype2023/13209
 #EXTINF:-1,RTL TELEKIDS
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73707#checkedby:alliptvlinks.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62967.ts
 #EXTINF:-1,Discovery Channel
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73659#checkedby:alliptvlinks.com
 #EXTINF:-1,DISCOVERY SCIENCE
@@ -42,14 +40,42 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73684#checkedby:alliptvlinks.co
 #EXTINF:-1,Nat Geo Wild
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73683#checkedby:alliptvlinks.com
 #EXTINF:-1,History
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73675#checkedby:alliptvlinks.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/62995.ts
 #EXTINF:-1,ANIMAL PLANET
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/73651#checkedby:alliptvlinks.com
 #EXTINF:-1,FILM 1 PREMIERE
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73668#checkedby:alliptvlinks.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62944.ts
 #EXTINF:-1,Film 1 Action
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73666#checkedby:alliptvlinks.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/62941.ts
 #EXTINF:-1,FILM 1 DRAMA
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73667#checkedby:alliptvlinks.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62943.ts
 #EXTINF:-1,FILM 1 FAMILY
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73669#checkedby:alliptvlinks.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62947.ts
+#EXTINF:-1,ALOULA 1
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/176
+#EXTINF:-1,2M
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/174
+#EXTINF:-1,ARRIADIA 3
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/180
+#EXTINF:-1,ATHAQAFIA 4
+http://startv365.com:80/8059765630/3322606439/312
+#EXTINF:-1,ALMAGHRIBIA 5
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/178#checkedby:alliptvlinks.com
+#EXTINF:-1,ASSADISSA 6
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/179
+#EXTINF:-1,LAAYOUNE 7
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/187
+#EXTINF:-1,TAMAZIGHT 8
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/181
+#EXTINF:-1,MBC 5
+http://startv365.com:80/8059765630/3322606439/366
+#EXTINF:-1,Medi 1 TV Arabic
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1,Medi 1 TV Afrique
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1,Tele Maroc
+http://5.253.46.190:7001/play/a0cb/index.m3u8
+#EXTINF:-1,CHADA TV
+http://startv365.com:80/8059765630/3322606439/367
+#EXTINF:-1,M24
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/175
